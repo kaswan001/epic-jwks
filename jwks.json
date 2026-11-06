@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "epic-connector-1",
+      "n": "n2f9Spz_3KZOGMUmU3ePDueZRhYjoAaQdRM66X6eNScV_EliY8fqPTKPUodfTYFRTcbjQk4etx9aRdi803qQZ_JM8CEDfeRQ32Q1OcrYiCiet3wMx0AtmcqERFUqkwDJbeSiHph0skCupHVusHsv7XBbihrtKIV-On6Pu-6OYR_4gjlw7o-rzvXZjV2H6vwXz1RlZcXsYW2seQ9sjNhIpfg75RvqsaYFjlwTYMIOhOA6MHgrsXacdvKy3MPEUL4arRfAWYPf2s1g0HeHQKZCFVLvfiEc9msX_ndPFGLOi1tOoGrfhZbjNMAUHemSpcd8FYtXxsqxGv9HNgDfV7-Y9w",
+      "e": "AQAB"
+    }
+  ]
+}

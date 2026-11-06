@@ -1,0 +1,5 @@
+# Never publish private keys from sibling/personal dirs
+*.pem
+!**/public*.pem
+epic-private*
+.env
